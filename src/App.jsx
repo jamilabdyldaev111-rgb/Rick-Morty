@@ -2,7 +2,8 @@ import { useState } from "react";
 import { ThemeProvider, createGlobalStyle } from "styled-components";
 
 import Header from "./components/Header";
-import Login from "./components/login/Login";
+import Login from "./components/Login/Login";
+
 import Users from "./components/users/Users";
 import { Admin } from "./components/Admin/Admin";
 import RickAndMorty from "./components/rick-morty/RickAndMorty";
